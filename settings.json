@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Herobrinesmp212121.aternos.me",
-    "port": 20009,
+    "ip": "Herobrinesmp2121.aternos.me",
+    "port": 11351,
     "version": "1.20.1",
     "try-creative": false
   },
