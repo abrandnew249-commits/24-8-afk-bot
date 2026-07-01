@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Lapattasmp67.aternos.me",
+    "ip": "Lapattasmp.aternos.me",
     "port": 42341,
     "version": "1.20.1",
     "try-creative": false
